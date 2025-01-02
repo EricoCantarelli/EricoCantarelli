@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricoCantarelli
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently practicing Java, web development, SOAP web services, internet of things, Python, Big Data, mySQL, HTML, CSS, React
+- 🌱 I’m currently practicing Java, web development, SOAP web services, internet of things, Python, Big Data, mySQL, HTML, CSS, Javascript, React
 - 💞️ I’m looking to collaborate on mobile devices, web applications and database
 - 📫 How to reach me ericocantarellineto@gmail.com
 
