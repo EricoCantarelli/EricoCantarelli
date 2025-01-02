@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricoCantarelli
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning java, mysql, c#, html5, css3, javascript
-- 💞️ I’m looking to collaborate on mobile mobile app front end development
+- 👀 I’m interested in Full Stack
+- 🌱 I’m currently practicing Java, web development, SOAP web services, internet of things, Python, Big Data, mySQL, HTML, CSS, Javascrit, React
+- 💞️ I’m looking to collaborate on mobile devices, web applications and database
 - 📫 How to reach me ericocantarellineto@gmail.com
 
 <!---
